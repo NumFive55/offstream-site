@@ -37,6 +37,10 @@
   background-color: transparent;
 }
 
+#mc_embed_signup_scroll {
+  display: flex;
+}
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 0;
